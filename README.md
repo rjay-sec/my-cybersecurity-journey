@@ -1,6 +1,10 @@
 # my-cybersecurity-journey
-Learning cybersecurity from scratch, sharing what I practice, study, and build along the way.
-My Cybersecurity Learning Journey 🛰️
+
+Week of Oct 7, 2025
+- 🚀 Created my GitHub and started documenting my cybersecurity journey
+- 🧠 Set goals for learning SOC and blue-team fundamentals
+- 🎯 Next: Begin TryHackMe Blue Team Fundamentals path
+
 Hi! I'm Rjay — I'm 15 and learning cybersecurity because I want to become a SOC Analyst one day.
 ## 🧭 About Me
 - 🎓 High school student (future SOC Analyst)
