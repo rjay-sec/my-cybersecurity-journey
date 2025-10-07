@@ -2,6 +2,12 @@
 Learning cybersecurity from scratch, sharing what I practice, study, and build along the way.
 My Cybersecurity Learning Journey 🛰️
 Hi! I'm Rjay — I'm 15 and learning cybersecurity because I want to become a SOC Analyst one day.
+## 🧭 About Me
+- 🎓 High school student (future SOC Analyst)
+- 💻 Learning cybersecurity from scratch, hands-on labs & online courses
+- ⚡ Focus: Blue team, threat detection, and defensive security
+- 🌍 Location: Texas / Nebraska area
+- 📅 Started: October 2025  
 
 This repo is where I track my progress, labs, and learning resources.  
 Even though I’m still early in my journey, I’m practicing daily using tools and online labs.
